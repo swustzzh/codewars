@@ -1,2 +1,4 @@
 # codewars
-codewars coding
+`codewars code`
+
+[Codewars Profile](https://www.codewars.com/users/zhihui)
