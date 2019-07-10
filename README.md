@@ -1,5 +1,5 @@
 # codewars
-`codewars code`
+`codewars coding...`
 
 ![Codewarrior Profile Badges](https://www.codewars.com/users/zhihui/badges/large)
 
